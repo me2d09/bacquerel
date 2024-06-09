@@ -1,0 +1,28 @@
+title: BaCQueRel
+description: BAvarian - Czech QUantum spin fractionalization and Entanglement Research
+baseurl: ""
+url: https://bacquerel.eu/
+
+# theme: cvless
+
+# site settings
+taglong: BAvarian - Czech QUantum spin fractionalization and Entanglement Research
+tagshort: BAvarian - Czech QUantum Entanglement Research
+
+# author settings
+author:
+  name: Place Holder
+  email: ross.colman@matfyz.cuni.cz
+address: Ke Karlovu 5, 121 16 Prague 2
+phone: +420 95155 1635
+
+# build settings
+permalink: pretty
+exclude:
+  - docker-compose.yml
+  - LICENSE
+  - README.md
+
+sass:
+  style: compressed
+  sourcemap: never

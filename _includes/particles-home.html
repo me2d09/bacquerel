@@ -1,0 +1,19 @@
+<div id="particles-js" class="fullscreen">
+  <div class="jumbotron text-center">
+    {% if site.photo %}
+    <img class="particles-photo" src="{{ site.photo }}" />
+    {% endif %}
+    <h1 class="particles-title">{{ site.title }}</h1>
+    <h1 class="particles-subtitle">{{ site.taglong }}</h1>
+    <div class="nowrap">
+      <h2><a class="particles-icon" href="/hiring">
+        <img src="assets/icons/hiring.png" style="height: 48px; display: inline; margin-right: 1em;" alt="hiring" />
+         We are hiring !
+         <img src="assets/icons/research.png" style="height: 48px; display: inline; margin-left: 1em;" alt="search" /></a>
+        </h2>
+    </div>
+  </div>
+  <div class="particles-scroll">
+    <a class="particles-icon" href="#scroll">{% include svg/nav-arrow-down.svg %}</a>
+  </div>
+</div>
