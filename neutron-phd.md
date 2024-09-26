@@ -24,6 +24,7 @@ As a **PhD candidate** in the Magnetism Group, you will:
 - Prepare and conduct **inelastic neutron scattering experiments** on **single crystals**.
 - Analyze data and present findings in scientific publications and at conferences.
 - Prepare and defend your PhD thesis.
+- If you are more interrested in **crystal growth**, there is [another PhD position](/crystal-phd) for you.
 
 ---
 
@@ -52,12 +53,10 @@ In this role, you will benefit from:
 
 ---
 
-For further details or informal inquiries, feel free to contact **Dr. Jeroen Custers** at: [jeroen.custers@matfyz.cuni.cz](mailto:jeroen.custers@matfyz.cuni.cz)  
-
 
 ### 👋 Sounds good? 
 
-Fill in following form and send us your application. For further details or informal inquiries, feel free to contact **Dr. Ross Colman** at: [ross.colman@matfyz.cuni.cz](mailto:ross.colman@matfyz.cuni.cz). Become a key part of **pioneering research** into the mysteries of quantum materials!
+Fill in following form and send us your application. For further details or informal inquiries, feel free to contact **Dr. Jeroen Custers** at: [jeroen.custers@matfyz.cuni.cz](mailto:jeroen.custers@matfyz.cuni.cz). Become a key part of **pioneering research** into the mysteries of quantum materials!
 
 {% include hiring-form.html formurl="https://submit-form.com/gzy0GAyG" %}
 

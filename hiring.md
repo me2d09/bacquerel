@@ -28,7 +28,7 @@ We are looking for motivated candidates to join our team for Bacquerel project.
     </a>
   </div>
   <div class="col-md-4">
-    <a href="/phd2"> 
+    <a href="/crystal-phd"> 
     <figure class="figure">
         <img src="/assets/phd2.png" class="figure-img img-fluid" />
         <figcaption class="figure-caption fw-bold">PhD student on crystal growth</figcaption>
