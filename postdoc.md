@@ -11,7 +11,7 @@ title: PostDoc on thermal conductivity
 ---
 
 ### Overview  
-The **Magnetism Group** at the Department of Condensed Matter Physics, Charles University, in collaboration with Augsburg University, invites applications for a **Postdoctoral Researcher** in the field of **Experimental Condensed Matter Physics**, specializing in **Low Temperature Thermal Transport in Quantum Materials**. This exciting opportunity is part of a cutting-edge collaboration where you will help develop and enhance the **Thermal Transport measurement** capabilities within our state-of-the-art **Materials Growth and Measurement Laboratories**. Join a dynamic team of enthusiastic researchers and make meaningful contributions to the exploration of quantum materials.  
+The **Magnetism Group** at the Department of Condensed Matter Physics, Charles University, in collaboration with Augsburg University, invites applications for a **Postdoctoral Researcher** in the field of **Experimental Condensed Matter Physics**, specializing in **Low Temperature Thermal Transport in Quantum Materials**. This invigorating position is part of a cutting-edge collaboration on quantum spin liquids. Your primary responsibility involves advancing and refining he Thermal Transport measurement capabilities within our state-of-the-art [Materials Growth and Measurement Laboratories](https://mgml.eu/). Join a dynamic team of enthusiastic researchers and make meaningful contributions to the exploration of quantum materials.
 
 ---
 
@@ -35,7 +35,7 @@ To thrive in this role, we’re looking for someone with:
 - Strong experience with **low-temperature measurements** related to **magnetic, thermodynamic, or transport properties**.
 - Prior expertise in **thermal transport property measurements** is highly advantageous.
 - Familiarity with the **maintenance and development** of **low-temperature measurement equipment**.
-- A solid command of **English** (B2 level or higher).
+- Highly proficient in spoken and written **English** (B2 level or higher).
 
 ---
 
@@ -54,6 +54,6 @@ When you join us, you’ll enjoy:
 
 ### 👋 Sounds good? 
 
-Please follow the official procedure described on the [university webpage](https://cuni.cz/UKEN-1573.html?&pracid=202410-VP2-MFF-KFKL-065). ID of the position is 202410-VP2-MFF-KFKL-065.
+Please follow the official procedure described on the [University webpage](https://cuni.cz/UKEN-1573.html?&pracid=202410-VP2-MFF-KFKL-065). ID of the position is 202410-VP2-MFF-KFKL-065.
 
 For further details or informal inquiries, feel free to contact **Dr. Ross Colman** at: [ross.colman@matfyz.cuni.cz](mailto:ross.colman@matfyz.cuni.cz). Join us in pushing the boundaries of **quantum material research**!

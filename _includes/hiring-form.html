@@ -1,0 +1,131 @@
+<div class="portfolio_right_text mt-30">
+    <h4 class="text-uppercase">Application form</h4>
+    <form id="form" class="needs-validation" action="{{ include.formurl | default: 'https://submit-form.com/echo' }}" data-botpoison-public-key="pk_a2e52fac-b9a5-49ef-bca0-70fd0e2c5e60" novalidate>
+        <div class="form-group row">
+            <label for="name" class="col-sm-2 col-form-label">Name</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" id="name" name="name" placeholder="James Kirk" required="" />
+                <div class="invalid-feedback">
+                    Please tell us your name!
+                </div>
+            </div>
+            
+        </div>
+        <div class="form-group row">
+            <label for="email" class="col-sm-2 col-form-label">Email</label>
+            <div class="col-sm-10">
+                <input type="email" class="form-control" id="email" name="email" placeholder="alfred@nobel.science" required="" />
+                <div class="invalid-feedback">
+                    We need your email to contact you.
+                </div>
+            </div>
+        </div>
+        <div class="form-group row mb-2">
+            <label for="url" class="col-sm-2 col-form-label">Web</label>
+            <div class="col-sm-10">
+                <input type="url" class="form-control" id="url" name="url" placeholder="Web/LinkedIn" aria-describedby="urlhelp"/>
+            </div>
+            <small id="urlhelp" class="form-text text-muted">
+                Enter either your personal web page or link to your social account (E.g. LinkedIn).
+            </small>
+            
+        </div>
+        
+        <div class="form-group row">
+            <label class="col-sm-12 col-form-label">References</label>
+            <div class="form-row">
+                <div class="col">
+                <input type="text" name="ref1name" class="form-control" placeholder="Referee 1"  required="">
+                <div class="invalid-feedback">
+                    At least 1 referee.
+                </div>
+                </div>
+                <div class="col">
+                <input type="text" name="ref1name" class="form-control" placeholder="Email/Phone"  required="">
+                <div class="invalid-feedback">
+                    Phone or email needed.
+                </div>
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="col">
+                <input type="text" name="ref2name" class="form-control" placeholder="Referee 2">
+                </div>
+                <div class="col">
+                <input type="text" name="ref2name" class="form-control" placeholder="Email/Phone">
+                </div>
+            </div>
+            <small class="form-text text-muted">
+                Enter the name and contact to at least one referee who can comment on your suitability to study for a research topic.
+            </small>
+        </div>
+        <div class="form-group row">
+            <label for="letter" class="col-sm-5 col-form-label">Motivation letter</label>
+            <div class="col-sm-7 text-right">
+                <input type="text" style="display:none" required="" id="letter" name="letter" role="uploadcare-uploader" data-file-types="pdf"  />
+                <div class="invalid-feedback" id="lettererror">
+                    You need to upload Motivation letter.
+                </div>
+            </div>
+            <small class="form-text text-muted">
+                Your motivation letter should be maximum 1 page PDF file.
+            </small>
+            
+        </div>
+        <div class="form-group row">
+            <label for="cv" class="col-sm-5 col-form-label">CV</label>
+            <div class="col-sm-7 text-right">
+                <input type="text" style="display:none" required="" id="cv" name="cv" role="uploadcare-uploader" data-file-types="pdf" />
+                <div class="invalid-feedback" id="cverror">
+                    You need to upload your CV.
+                </div>
+            </div>
+            <small class="form-text text-muted">
+                Upload your CV in PDF format.
+            </small>
+            
+        </div>
+        <div class="form-group row">
+            <input type="checkbox" name="signin" style="display:none" tabindex="-1" autocomplete="off" />    
+            <button id="button" type="submit" class="btn btn-primary mx-auto">Send application</button>
+        </div>
+      </form>
+      <script>
+        var formElement = document.getElementById("form");
+        var buttonElement = document.getElementById("button");
+        
+        formElement.addEventListener("botpoison-challenge-start", function () {
+          buttonElement.setAttribute("disabled", "disabled");
+        });
+        formElement.addEventListener("botpoison-challenge-success", function () {
+          buttonElement.removeAttribute("disabled");
+        });
+        formElement.addEventListener("botpoison-challenge-error", function () {
+          buttonElement.removeAttribute("disabled");
+        });
+
+        // Fetch all the forms we want to apply custom Bootstrap validation styles to
+        const forms = document.querySelectorAll('.needs-validation')
+
+        // Loop over them and prevent submission
+        Array.from(forms).forEach(form => {
+        form.addEventListener('submit', event => {
+            if (!form.checkValidity()) {
+                if (uploadcare.Widget("[id=letter]").value())
+                    document.querySelector('#lettererror').setAttribute("class", ":valid d-none");
+                else
+                    document.querySelector('#lettererror').setAttribute("class", ":invalid text-danger");
+                if (uploadcare.Widget("[id=cv]").value())
+                    document.querySelector('#cverror').setAttribute("class", ":valid d-none");
+                else
+                    document.querySelector('#cverror').setAttribute("class", ":invalid text-danger");
+                event.preventDefault()
+                event.stopPropagation()
+            }
+
+            form.classList.add('was-validated')
+        }, false)
+        })
+
+      </script>
+</div>

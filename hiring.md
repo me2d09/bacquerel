@@ -20,7 +20,7 @@ We are looking for motivated candidates to join our team for Bacquerel project.
     </a>
   </div>
   <div class="col-md-4">
-    <a href="/phd1"> 
+    <a href="/neutron-phd"> 
     <figure class="figure">
         <img src="/assets/phd1.png" class="figure-img img-fluid" />
         <figcaption class="figure-caption fw-bold">PhD student on neutron scattering</figcaption>
