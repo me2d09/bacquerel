@@ -43,18 +43,17 @@ To succeed in this role, you should have:
 
 ### 🤝 What will you get in return?
 
-In this position, you will receive:
+This position offers,
 
-- A **3-year PhD contract** within a world-class experimental group.
-- Access to cutting-edge equipment, including more than **[20 furnaces](https://mgml.eu/laboratories/furnaces)**, 3 [dilution refrigerators](https://mgml.eu/laboratories/instruments/9t), [20T magnet](https://mgml.eu/laboratories/instruments/20t), several [Quantum design working-horse systems](https://mgml.eu/laboratories/instruments/ppms14) for bulk properties measurement, and more.
-- The opportunity to learn **crystal growth methods** from a leading expert, **Dr. Ross Colman**, who brings a wealth of experience in **materials science** and **condensed matter physics**.
-- A competitive stipend, flexible working conditions, and opportunities for **international collaboration**.
-- The chance to make significant contributions to the field of **frustrated materials**.
+- a **3-year PhD contract** with a competitive salary + stipend provided by Charles University,
+- access to cutting-edge equipment, including more than **[20 furnaces](https://mgml.eu/laboratories/furnaces)**, 3 [dilution refrigerators](https://mgml.eu/laboratories/instruments/9t), [20T magnet](https://mgml.eu/laboratories/instruments/20t), several [Quantum design working-horse systems](https://mgml.eu/laboratories/instruments/ppms14) for bulk properties measurement, and more,
+- support and guidance from a friendly team of expert researchers, PhD students, and opportunities to work with Master and Bachelor students,
+- the chance to make significant contributions to the field of **frustrated materials**.
 
 ---
 ### 👋 Sounds good? 
 
-Fill in following form and send us your application. For further details or informal inquiries, feel free to contact **[📧 Dr. Ross Colman](mailto:ross.colman@matfyz.cuni.cz)**. Start your journey into the fascinating world of **crystal growth** and **quantum materials** today!
+Fill in following form and send us your application. For further details or informal inquiries, feel free to contact **[📧 Dr. Ross Colman](https://kfkl.mff.cuni.cz/en/people/colman)** at: [ross.colman@matfyz.cuni.cz](mailto:ross.colman@matfyz.cuni.cz). Start your journey into the fascinating world of **crystal growth** and **quantum materials** today!
 
 {% include hiring-form.html formurl="https://submit-form.com/ZLEWwfWEe" %}
 

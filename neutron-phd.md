@@ -24,7 +24,7 @@ As a **PhD candidate** in the Magnetism Group, you will:
 - Prepare and conduct **inelastic neutron scattering experiments** on **single crystals**.
 - Analyze data and present findings in scientific publications and at conferences.
 - Prepare and defend your PhD thesis.
-- If you are more interrested in **crystal growth**, there is [another PhD position](/crystal-phd) for you.
+- If **crystal growth** aligns more with your research interests, we also have a [PhD position](/crystal-phd) in that area. 
 
 ---
 
@@ -33,30 +33,29 @@ As a **PhD candidate** in the Magnetism Group, you will:
 To join us, we’re looking for a candidate who has:
 
 - A **Master’s degree** in **Condensed Matter Physics, Chemistry, or Materials Science**.
-- Experience with **neutron scattering** at large scal infrastructures.
+- Experience with **neutron scattering** at large scale facilities. 
 - A strong interest in **magnetism** and **quantum materials**.
 - Experience in **low-temperature measurements** or other experimental physics techniques is a plus.
 - Willingness to engage in **hands-on experimental work**.
-- Proficiency in **English**, both written and spoken, at an **independent user level** or higher.
+- Proficiency in **English**, both written and spoken, at an **independent user level** (B1 level) or higher.
 
 ---
 
 ### 🤝 What will you get in return?
 
-In this role, you will benefit from:
+This position offers,
 
-- A **3-year PhD contract** as part of a vibrant research group.
-- Access to **state-of-the-art research facilities** at [MGML](https://mgml.eu/) in Prague and internationally.
-- A competitive stipend + sallary and **support for international collaborations**.
-- Supervision and mentorship from **[Dr. Jeroen Custers](https://kfkl.mff.cuni.cz/en/people/custers)**, a renowned expert in the field of **strongly correlated electron systems** and **quantum materials**.
-- Flexible working hours, and the chance to develop your **scientific career** within an internationally recognized group.
+- a **3-year PhD contract** with a competitive salary + stipend provided by Charles University,
+- access to advanced research equipment and infrastructure at [MGML](https://mgml.eu/) in Prague and international partner institutions,
+- support and guidance from a friendly team of expert researchers, PhD students, and opportunities to work with Master and Bachelor students,
+- flexible working hours, and the opportunity to propel your **scientific career** forward within an internationally recognized group.
 
 ---
 
 
 ### 👋 Sounds good? 
 
-Fill in following form and send us your application. For further details or informal inquiries, feel free to contact **Dr. Jeroen Custers** at: [jeroen.custers@matfyz.cuni.cz](mailto:jeroen.custers@matfyz.cuni.cz). Become a key part of **pioneering research** into the mysteries of quantum materials!
+Fill in the following application form. For further details or informal inquiries, feel free to contact **[Dr. Jeroen Custers](https://kfkl.mff.cuni.cz/en/people/custers)** at: [jeroen.custers@matfyz.cuni.cz](mailto:jeroen.custers@matfyz.cuni.cz). Become a key part of **pioneering research** into the mysteries of quantum materials!
 
 {% include hiring-form.html formurl="https://submit-form.com/gzy0GAyG" %}
 

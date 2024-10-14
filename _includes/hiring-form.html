@@ -2,7 +2,7 @@
     <h4 class="text-uppercase">Application form</h4>
     <form id="form" class="needs-validation" action="{{ include.formurl | default: 'https://submit-form.com/echo' }}" data-botpoison-public-key="pk_a2e52fac-b9a5-49ef-bca0-70fd0e2c5e60" novalidate>
         <div class="form-group row">
-            <label for="name" class="col-sm-2 col-form-label">Name</label>
+            <label for="name" class="col-sm-2 col-form-label">Name *</label>
             <div class="col-sm-10">
                 <input type="text" class="form-control" id="name" name="name" placeholder="James Kirk" required="" />
                 <div class="invalid-feedback">
@@ -12,7 +12,7 @@
             
         </div>
         <div class="form-group row">
-            <label for="email" class="col-sm-2 col-form-label">Email</label>
+            <label for="email" class="col-sm-2 col-form-label">Email *</label>
             <div class="col-sm-10">
                 <input type="email" class="form-control" id="email" name="email" placeholder="alfred@nobel.science" required="" />
                 <div class="invalid-feedback">
@@ -32,7 +32,7 @@
         </div>
         
         <div class="form-group row">
-            <label class="col-sm-12 col-form-label">References</label>
+            <label class="col-sm-12 col-form-label">References *</label>
             <div class="form-row">
                 <div class="col">
                 <input type="text" name="ref1name" class="form-control" placeholder="Referee 1"  required="">
@@ -56,11 +56,11 @@
                 </div>
             </div>
             <small class="form-text text-muted">
-                Enter the name and contact to at least one referee who can comment on your suitability to study for a research topic.
+                Provide the name and contact information of at least one referee who can attest to your qualifications for pursuing this research topic.
             </small>
         </div>
         <div class="form-group row">
-            <label for="letter" class="col-sm-5 col-form-label">Motivation letter</label>
+            <label for="letter" class="col-sm-5 col-form-label">Motivation letter *</label>
             <div class="col-sm-7 text-right">
                 <input type="text" style="display:none" required="" id="letter" name="letter" role="uploadcare-uploader" data-file-types="pdf"  />
                 <div class="invalid-feedback" id="lettererror">
@@ -73,7 +73,7 @@
             
         </div>
         <div class="form-group row">
-            <label for="cv" class="col-sm-5 col-form-label">CV</label>
+            <label for="cv" class="col-sm-5 col-form-label">CV *</label>
             <div class="col-sm-7 text-right">
                 <input type="text" style="display:none" required="" id="cv" name="cv" role="uploadcare-uploader" data-file-types="pdf" />
                 <div class="invalid-feedback" id="cverror">
@@ -88,6 +88,9 @@
         <div class="form-group row">
             <input type="checkbox" name="signin" style="display:none" tabindex="-1" autocomplete="off" />    
             <button id="button" type="submit" class="btn btn-primary mx-auto">Send application</button>
+        </div>
+        <div class="form-group row">
+            <small>Fields marked with <b>*</b> are mandatory.</small>
         </div>
       </form>
       <script>
