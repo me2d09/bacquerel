@@ -10,7 +10,7 @@ title: PhD on crystal growth
 ---
 
 ### Overview  
-The **Magnetism Group** at the Department of Condensed Matter Physics, Charles University, is offering a **PhD position** under the supervision of **[Dr. Ross Colman](https://kfkl.mff.cuni.cz/en/people/colman)**, an expert in **crystal growth** and **frustrated magnetic materials**. This 3-year position focuses on the **growth and characterization** of single crystals using a range of advanced techniques and specialized furnaces available at the **[Materials Growth and Measurement Laboratories (MGML)](https://mgml.eu/)**. The goal is to grow and investigate new materials that exhibit **magnetic frustration**, **superconductivity** or other **unusual magnetic behaviors**.
+The **Magnetism Group** at the Department of Condensed Matter Physics, Charles University, is offering a **PhD position** under the supervision of **[Dr. Ross Colman](https://kfkl.mff.cuni.cz/en/people/colman)**, an expert in **crystal growth** and **frustrated magnetic materials**. This 3-year position focuses on the **growth and characterization** of single crystals using a range of advanced techniques and specialized furnaces available at the **[Materials Growth and Measurement Laboratories (MGML)](https://mgml.eu/)**. The goal is to grow and investigate new materials that exhibit **magnetic frustration**, **superconductivity** or other **unusual magnetic behaviors**. Deadline for application is 1st November 2024, start of study February 2025 (negotiable).
 
 
 ---
@@ -53,7 +53,7 @@ This position offers,
 ---
 ### 👋 Sounds good? 
 
-Fill in following form and send us your application. For further details or informal inquiries, feel free to contact **[📧 Dr. Ross Colman](https://kfkl.mff.cuni.cz/en/people/colman)** at: [ross.colman@matfyz.cuni.cz](mailto:ross.colman@matfyz.cuni.cz). Start your journey into the fascinating world of **crystal growth** and **quantum materials** today!
+Fill in following form and send us your application, deadline is **November 1st, 2024**. For further details or informal inquiries, feel free to contact **[📧 Dr. Ross Colman](https://kfkl.mff.cuni.cz/en/people/colman)** at: [ross.colman@matfyz.cuni.cz](mailto:ross.colman@matfyz.cuni.cz). Start your journey into the fascinating world of **crystal growth** and **quantum materials** today!
 
 {% include hiring-form.html formurl="https://submit-form.com/ZLEWwfWEe" %}
 

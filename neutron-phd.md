@@ -10,7 +10,7 @@ title: PhD on neutron scattering
 ---
 
 ### Overview  
-The **Magnetism Group** at the Department of Condensed Matter Physics, Charles University, is offering a **PhD position** for an aspiring researcher with an interest in **Inelastic Neutron Scattering**. This 3-year position focuses on exploring **quantum fluctuations** and the enigmatic nature of **quantum spin liquids** in **strongly correlated electron systems**. **Inelastic neutron scattering** is a pivotal technique in this field, revealing the complex magnetic ground states that define these quantum phases. The successful candidate will have the opportunity to conduct groundbreaking experiments under the supervision of **Dr. Jeroen Custers**, a leading expert in magnetism and heavy fermion compounds.
+The **Magnetism Group** at the Department of Condensed Matter Physics, Charles University, is offering a **PhD position** for an aspiring researcher with an interest in **Inelastic Neutron Scattering**. This 3-year position focuses on exploring **quantum fluctuations** and the enigmatic nature of **quantum spin liquids** in **strongly correlated electron systems**. **Inelastic neutron scattering** is a pivotal technique in this field, revealing the complex magnetic ground states that define these quantum phases. The successful candidate will have the opportunity to conduct groundbreaking experiments under the supervision of **Dr. Jeroen Custers**, a leading expert in magnetism and heavy fermion compounds. Deadline for application is 1st November 2024, start of study February 2025 (negotiable).
 
 ---
 
@@ -55,7 +55,7 @@ This position offers,
 
 ### 👋 Sounds good? 
 
-Fill in the following application form. For further details or informal inquiries, feel free to contact **[Dr. Jeroen Custers](https://kfkl.mff.cuni.cz/en/people/custers)** at: [jeroen.custers@matfyz.cuni.cz](mailto:jeroen.custers@matfyz.cuni.cz). Become a key part of **pioneering research** into the mysteries of quantum materials!
+Fill in the following application form, deadline is **November 1st, 2024**. For further details or informal inquiries, feel free to contact **[Dr. Jeroen Custers](https://kfkl.mff.cuni.cz/en/people/custers)** at: [jeroen.custers@matfyz.cuni.cz](mailto:jeroen.custers@matfyz.cuni.cz). Become a key part of **pioneering research** into the mysteries of quantum materials!
 
 {% include hiring-form.html formurl="https://submit-form.com/gzy0GAyG" %}
 

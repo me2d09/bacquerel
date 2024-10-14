@@ -54,6 +54,6 @@ When you join us, you’ll enjoy:
 
 ### 👋 Sounds good? 
 
-Please follow the official procedure described on the [University webpage](https://cuni.cz/UKEN-1573.html?&pracid=202410-VP2-MFF-KFKL-065). ID of the position is 202410-VP2-MFF-KFKL-065.
+Please follow the official procedure described on the [University webpage](https://cuni.cz/UKEN-1573.html?pracid=202410-PD-MFF-KFKL-065). ID of the position is 202410-PD-MFF-KFKL-065. Deadline for application is October 20, 2024.
 
 For further details or informal inquiries, feel free to contact **Dr. Ross Colman** at: [ross.colman@matfyz.cuni.cz](mailto:ross.colman@matfyz.cuni.cz). Join us in pushing the boundaries of **quantum material research**!
